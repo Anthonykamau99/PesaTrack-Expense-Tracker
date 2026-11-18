@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.PesaTrack" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2DD4BF</item>
+        <item name="colorOnPrimary">#042F2E</item>
+        <item name="colorPrimaryContainer">#134E4A</item>
+        <item name="colorOnPrimaryContainer">#CCFBF1</item>
+        <item name="colorSecondary">#5EEAD4</item>
+        <item name="colorOnSecondary">#042F2E</item>
+        <item name="android:statusBarColor">#042F2E</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#0F172A</item>
+    </style>
+
+    <style name="Theme.PesaTrack" parent="Base.Theme.PesaTrack" />
+</resources>
